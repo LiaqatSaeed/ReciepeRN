@@ -1,2 +1,2 @@
-# ReciepeRN
-This is React Native Reciepe App
+# NiaziFood
+This App is related to NiaziFood
